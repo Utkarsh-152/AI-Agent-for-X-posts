@@ -7,7 +7,6 @@ A powerful AI agent implementation that combines Google's Gemini AI with Model C
 - **AI Model**: Google Gemini 2.0 via `@google/genai` SDK
 - **Context Protocol**: Model Context Protocol (MCP) via `@modelcontextprotocol/sdk`
 - **Runtime**: Node.js (v18 or later)
-- **Authentication**: Google Cloud Authentication
 
 ## ⚙️ Architecture
 
